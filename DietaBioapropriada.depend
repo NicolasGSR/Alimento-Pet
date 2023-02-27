@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1659477776 source:c:\users\nishow\desktop\documentos\dietabioapropriada\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1659477776 c:\users\nishow\desktop\documentos\dietabioapropriada\resource.h
+
